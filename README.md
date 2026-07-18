@@ -15,3 +15,7 @@ Key Takeaway: Built a strong foundation in satellite technology and CubeSat fund
 - Observed the integration of the CubeSat with the ground station to understand telemetry and wireless data communication.
 
 **Key Takeaway:** Gained hands-on experience in sensor interfacing, Arduino programming, and CubeSat–ground station communication.
+##WORKSHOP GALLERY
+<img width="1600" height="1082" alt="cubesat2" src="https://github.com/user-attachments/assets/cd5c5ea9-6c75-49c6-aaa7-44f82e7a5da6" />
+
+<img width="576" height="1280" alt="cube3" src="https://github.com/user-attachments/assets/8085b81c-7b66-4893-be69-d64a51867654" />
