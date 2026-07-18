@@ -8,7 +8,7 @@ This repository reflects my journey through a CubeSat workshop, where I explored
 - Learned about the applications of CubeSats and opportunities in the space sector.
 Key Takeaway: Built a strong foundation in satellite technology and CubeSat fundamentals.
 
-## Day 2
+**## Day 2**
 - Worked on the CubeSat hardware integration activity.
 - Interfaced the environmental sensor, magnetometer (compass), and communication module with the CubeSat using Arduino.
 - Uploaded and tested the firmware through the Arduino IDE.
@@ -19,3 +19,9 @@ Key Takeaway: Built a strong foundation in satellite technology and CubeSat fund
 <img width="1600" height="1082" alt="cubesat2" src="https://github.com/user-attachments/assets/cd5c5ea9-6c75-49c6-aaa7-44f82e7a5da6" />
 
 <img width="576" height="1280" alt="cube3" src="https://github.com/user-attachments/assets/8085b81c-7b66-4893-be69-d64a51867654" />
+
+## Acknowledgment
+
+This repository documents my learning and hands-on experience during the CubeSat Workshop.
+
+The Arduino source code included in this repository was provided by the workshop instructors. It is shared here solely for educational and reference purposes. All rights to the original code remain with its respective authors.
